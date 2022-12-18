@@ -13,7 +13,7 @@
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/Danigy/actions-weather-data-logger">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Danigy/actions-weather-data-logger">
-    <img alt="GitHub" src="https://img.shields.io/github/license/mouadessalim/actions-weather-data-logger">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Danigy/actions-weather-data-logger">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Danigy/actions-weather-data-logger">
     <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2022">
   </p>
