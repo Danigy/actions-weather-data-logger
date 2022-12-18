@@ -19,12 +19,14 @@
   </p>
   <p align="center">
     <a href="#usage">Usage</a> •
-    <a href="#cookies">Cookies</a> •
-    <a href="#compatibility">Compatibility</a> •
-    <a href="#disclaimer">Disclaimer</a> •
-    <a href="#contributing">Contributing</a> •
-    <a href="#license">License</a> •
-    <a href="#other-projects">Other projects</a> 
+    <a href="#actions-yml">Actions-YML</a> •
+    <a href="#environment">Environment</a> •
+    <a href="#gitignore">Gitignore</a> •
+     <a href="#license">License</a> •
+    <a href="#main-py">main python</a> •
+    <a href="#readme">Read me</a> •
+     <a href="#requirments">Requirments</a> •
+    <a href="#status-log">Status Log</a> 
   </p>
   <p align="center">
     <i>If this helped you  and Loved the tool? Please consider <strong>donating</strong> 💸 to help it improve!</i>
