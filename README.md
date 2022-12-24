@@ -3,6 +3,7 @@
   <!--- <img src="https://imgur.com/lCyX6TX.png"> -->
   <br>
   [![run main.py](https://github.com/Danigy/actions-weather-data-logger/actions/workflows/actions.yml/badge.svg)](https://github.com/Danigy/actions-weather-data-logger/actions/workflows/actions.yml)
+  [![run main.py](https://github.com/Danigy/actions-weather-data-logger/actions/workflows/actions.yml/badge.svg)](https://github.com/Danigy/actions-weather-data-logger/actions/workflows/actions.yml)
   <br>
   <p>
     <img src="https://forthebadge.com/images/badges/made-with-python.svg">
