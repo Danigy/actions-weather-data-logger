@@ -2,14 +2,14 @@
 <div align="center">
   <!--- <img src="https://imgur.com/lCyX6TX.png"> -->
   <br>
-  [![run main.py](https://github.com/Danigy/actions-weather-data-logger/actions/workflows/actions.yml/badge.svg)](https://github.com/Danigy/actions-weather-data-logger/actions/workflows/actions.yml)
-  [![run main.py](https://github.com/Danigy/actions-weather-data-logger/actions/workflows/actions.yml/badge.svg)](https://github.com/Danigy/actions-weather-data-logger/actions/workflows/actions.yml)
   <br>
   <p>
     <img src="https://forthebadge.com/images/badges/made-with-python.svg">
     <img src="http://forthebadge.com/images/badges/built-with-love.svg">
   </p>
   <h1> How to Schedule a Python script with GitHub Actions to Automate timely routine tasks !</h1>
+  
+
   <p>
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Danigy/actions-weather-data-logger">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/Danigy/actions-weather-data-logger">
@@ -18,6 +18,8 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/Danigy/actions-weather-data-logger">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Danigy/actions-weather-data-logger">
     <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2022">
+    
+ **Display GitHub Action Badge** [![run main.py](https://github.com/Danigy/actions-weather-data-logger/actions/workflows/actions.yml/badge.svg)](https://github.com/Danigy/actions-weather-data-logger/actions/workflows/actions.yml)
   </p>
   <p align="center">
     <a href="#usage">Usage</a> •
