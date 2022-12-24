@@ -33,5 +33,5 @@ if __name__ == "__main__":
         temperature = data["forecast"]["temp"]
         temperature1 = data["forecast"]["pressure"]
         temperature2 = data["forecast"]["humidity"]
-        weather = data["description"]["category"]
-        logger.info(f'Weather in Addis Ababa: {temperature},{temperature1},{temperature2}')
+        #weather = data["description"]["category"]
+        logger.info(f'Weather in Addis Ababa: {temperature}, {temperature1}, {temperature2}')
