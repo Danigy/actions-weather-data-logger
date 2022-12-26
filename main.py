@@ -30,8 +30,8 @@ if __name__ == "__main__":
     r = requests.get('https://weather.talkpython.fm/api/weather?city=Addis%20Ababa&country=ET')
     if r.status_code == 200:
         data = r.json()
-        temperature = data["forecast"]["temp"]
+        temperature0 = data["forecast"]["temp"]
         temperature1 = data["forecast"]["pressure"]
         temperature2 = data["forecast"]["humidity"]
-        #weather = data["description"]["category"]
-        logger.info(f'Weather in Addis Ababa: {temperature}, {temperature1}, {temperature2}')
+        temperature3 = data["weather"]["category"]
+        logger.info(f'Weather in Addis Ababa: temp {temperature0}, pressure {temperature1}, humidity {temperature2}, category{temperature3}')
