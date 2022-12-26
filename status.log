@@ -103,3 +103,5 @@
 2022-12-26 05:00:43,775 - __main__ - INFO - Weather in Addis Ababa: 14.19, 1019, 69
 2022-12-26 06:06:55,791 - __main__ - INFO - Token value: 95478615479
 2022-12-26 06:06:56,105 - __main__ - INFO - Weather in Addis Ababa: 15.52, 1019, 65
+2022-12-26 07:01:30,546 - __main__ - INFO - Token value: 95478615479
+2022-12-26 07:01:30,677 - __main__ - INFO - Weather in Addis Ababa: temp 15.52, pressure 1019, humidity 65, categoryClouds
