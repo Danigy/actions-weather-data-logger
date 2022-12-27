@@ -172,3 +172,5 @@
 2022-12-27 17:00:32,946 - __main__ - INFO - Weather in Addis Ababa: 🌡️ 14.27 °C, 💨 1018 hPa, 💦 76 %rh, 🌦️ Rain
 2022-12-27 18:01:58,958 - __main__ - INFO - Token value: 95478615479
 2022-12-27 18:01:59,281 - __main__ - INFO - Weather in Addis Ababa: 🌡️ 13.66 °C, 💨 1019 hPa, 💦 79 %rh, 🌦️ Rain
+2022-12-27 19:00:45,946 - __main__ - INFO - Token value: 95478615479
+2022-12-27 19:00:46,649 - __main__ - INFO - Weather in Addis Ababa: 🌡️ 15.49 °C, 💨 1029 hPa, 💦 67 %rh, 🌦️ Rain
