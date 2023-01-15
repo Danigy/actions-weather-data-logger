@@ -1045,3 +1045,5 @@
 2023-01-15 17:00:57,646 - __main__ - INFO - Weather in Addis Ababa: 🌡️ 13.86 °C, 💨 1018 hPa, 💦 58 %rh, 🌦️ Clouds
 2023-01-15 18:01:15,724 - __main__ - INFO - Token value: 95478615479
 2023-01-15 18:01:19,627 - __main__ - INFO - Weather in Addis Ababa: 🌡️ 13.49 °C, 💨 1027 hPa, 💦 67 %rh, 🌦️ Clouds
+2023-01-15 19:01:00,119 - __main__ - INFO - Token value: 95478615479
+2023-01-15 19:01:05,962 - __main__ - INFO - Weather in Addis Ababa: 🌡️ 12.4 °C, 💨 1019 hPa, 💦 66 %rh, 🌦️ Clear
